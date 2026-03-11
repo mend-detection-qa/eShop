@@ -113,7 +113,7 @@
           "opentelemetry.exporter.opentelemetryprotocol",
           "microsoft.aspnetcore.app.internal.assets",
           "microsoft.aspnetcore.testhost",
-          "duende.identityserver.aspnetidentity",
+          "duende.identityserver.aspnetidentity"
         ]
       },
       "transitive_dependencies_names_list": {
